@@ -13,6 +13,15 @@ div {
     margin-right: 20px;
     
 }
+
 .chamada-texto {
-     margin-right: 50;
+     margin-right: 5%;
+}
+img{
+    height: 200px;
+}
+.temasdosfilmes{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
 }
